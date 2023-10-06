@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "koloni.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "auretim.h": "c",
+        "buretim.h": "c",
+        "uretim.h": "c",
+        "time.h": "c",
+        "ataktik.h": "c",
+        "taktik.h": "c"
+    }
+}
